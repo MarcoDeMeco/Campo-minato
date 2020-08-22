@@ -114,7 +114,7 @@ public class Main {
 				 * Nella remota possibilità in cui l'utente metta delle bandiere e al suo primo click prenda una bomba,
 				 * il campo verrà ricostruito lasciando invariate le posizioni delle bandiere
 				 * 
-				 * Assicuriamoci di catturare l'eccezzione in caso le caselle non siano ancora state create
+				 * Assicuriamoci di catturare l'eccezione in caso le caselle non siano ancora state create
 				 */
 				try{
 					bandiera = caselle[i][j].isBandiera();
