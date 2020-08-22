@@ -202,7 +202,7 @@ public class Main {
 	
 	public static void rigioca() {
 		/*
-		 * questo metodo può essere chiamato da Smile anche se l'utente non ha né vinto né perso
+		 * questo metodo può essere chiamato da Smile anche se l'utente non ha ancora concluso la partita
 		 * assicuriamoci, dunque, di fermare il thread che conta il tempo
 		 */
 		t.interrompiTimer();
