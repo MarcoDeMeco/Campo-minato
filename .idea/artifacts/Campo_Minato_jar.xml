@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Campo Minato:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Campo_Minato_jar</output-path>
+    <root id="archive" name="Campo Minato.jar">
+      <element id="module-output" name="Campo Minato" />
+    </root>
+  </artifact>
+</component>
